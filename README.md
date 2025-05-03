@@ -5,7 +5,7 @@ _Desarrollo de Software para Móviles DSM941 G01T_
 
 ## Enlaces:
 
-- 📄 Video funcionamiento - [Foro 1](https://drive.google.com/file/d/1scnicwIAUlWM2jCEsIRYZY-QPnvPl7Rx/view?usp=drive_link)
+- 📄 Video funcionamiento - [Foro 2](https://drive.google.com/file/d/1scnicwIAUlWM2jCEsIRYZY-QPnvPl7Rx/view?usp=drive_link)
 
 
 ## Integrantes:
